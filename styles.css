@@ -27,7 +27,7 @@ header, section{
 }
 
 header{
-    background-color: var(--nord8);
+    background-color: var(--nord0);
     color: var(--nord6);
     padding-top: 16px;
     padding-left: 16px;
