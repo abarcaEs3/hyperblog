@@ -13,6 +13,7 @@ body{
     text-align: left;
     border: 1px solid #000;
     margin: auto;
+    margin-top: 5px;
 }
 
 #container h1{
